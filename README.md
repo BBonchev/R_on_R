@@ -1,3 +1,3 @@
-# Ruby on Rails Tutorial
+R_on_R Tutorial
 
-## "hello, world!"
+Check it out!
